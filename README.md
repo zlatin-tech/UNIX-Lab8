@@ -1,7 +1,7 @@
 # UNIX-Lab8
 This repository will be used for students to show their forking, branching and PRs practice.
 
-Our common project is to write Quiz#2. The format should be similar to Quiz#1: True-and-False, multiple choice and short-answer questions. There should be one text file per question type. 
+Our common project is to write Quiz#2. The format should be similar to Quiz#1: True-and-False, multiple choice and open questions. There is one text file per question type. 
 
 Please add as many questions as you few inspired! They might make their way into the real quiz ;-)
 
